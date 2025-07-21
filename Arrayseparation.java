@@ -18,6 +18,8 @@ public class Arrayseparation{
             System.out.print(arr1[i]+" ");
         }
         System.out.println();
+
+        
          for(int i=0;i<odd;i++){
             System.out.print(arr2[i]+" ");
         }
